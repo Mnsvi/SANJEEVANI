@@ -1,2 +1,1 @@
-# sanjeevni
-Our hackathon project
+SANJEEVANI
